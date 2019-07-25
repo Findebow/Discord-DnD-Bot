@@ -1,0 +1,19 @@
+Dice roller with modifiers
+initiative tracker
+health tracker for each player
+spell slot tracker for each player
+character sheet for each player
+
+
+Commands:
+!roll       rolls a dice can be use with modifers, for example !roll 2d10 + 8
+!initiative rolls a d20 and adds dex to add player to initiative count
+!owari      clear initiative
+!next       states the next name in initiative
+!health     changes your current health example !health -2
+!short      Short rest for everyone
+!long       long rest for everyone
+!cast       cast spell changes spell slot example !cast 1
+!inchar     in character, changes nickname to character name
+!outchar    out of character, changes nickname to username
+!stats      stats of your character
